@@ -21,13 +21,13 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
 let teksbio = `${htki} *BIODATA* ${htka}
 ${htjava} *💌 Nama* : CACAN BOT
-${htjava} *✉️ Nama RL* : HAMBA ALLAH
+${htjava} *✉️ Nama RL* : Yans Tian
 ${htjava} *♂️ Gender* : Boys
 ${htjava} *🕋 Agama* : Katolik
 ${htjava} *⏰ Tanggal lahir* : Sing Ngertos² Mawon
 ${htjava} *🎨 Umur* : 17
 ${htjava} *🧮 Kelas* : Sing Ngertos² Mawon
-${htjava} *🧩 Hobby* : MODIFIKASI WHATSAPP "MODDER WHATSAPP"
+${htjava} *🧩 Hobby* : Menghalukan dia
 ${htjava} *💬 Sifat* : Sepertinya Anda Kepo Ya:v
 ${htjava} *🗺️ Tinggal* : Indo, Semarang, Jawa Jateng
 ${htjava} *❤️ Waifu* : Anya
