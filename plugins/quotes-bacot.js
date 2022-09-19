@@ -90,4 +90,6 @@ global.bacot = [
 'Jangan terlalu berharap! nanti jatuhnya sakit!',
 'Ingat! Anda itu jomblo',
 'Gak tau mau ngetik apa',
+'Cuma sekedar menghalu Soal memiliki aku yo ndak mampu',
+'Fisik ini menginginkan untuk mundur Namun perasaan ini memaksaku untuk tetap mengharapkanmu',
 ]
