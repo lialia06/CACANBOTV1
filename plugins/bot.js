@@ -10,7 +10,7 @@ handler.command = new RegExp
 
 handler.limit = true
 handler.mods = false 
-handler.premium = false
+handler.premium = true
 handler.group = false
 handler.private = false
 
